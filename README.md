@@ -1,4 +1,4 @@
-# TB.DataMining_001.016.020
+# TB.DataMining_001.015.020
 Tugas Besar Data Mining.
 Anggota:
 Shaliha Putri Ninda (3311901001),
